@@ -1,1 +1,1 @@
-#Classical game Battleship from Codeacademy.
+#Classical game Battleship built in Codeacademy!
