@@ -1,1 +1,1 @@
-# python_battleship
+#Classical game Battleship from Codeacademy.
